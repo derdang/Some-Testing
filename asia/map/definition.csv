@@ -1,0 +1,65 @@
+province;red;green;blue;x;x
+1;255;255;0;Dien Bien;x
+2;220;231;58;Lai Chau;x
+3;250;231;0;Lao Cai;x
+4;253;216;0;Son La;x
+5;250;231;95;Yen Bai;x
+6;240;235;92;Hoa Binh;x
+7;255;182;0;Ha Giang;x
+8;255;192;0;Tuyen Quang;x
+9;255;155;0;Phu Tho;x
+10;255;138;0;Cao Bang;x
+11;255;121;0;Bac Kan;x
+12;255;56;0;Thai Nguyen;x
+13;255;75;0;Lang Son;x
+14;206;53;0;Bac Giang;x
+15;227;45;24;Quang Ninh;x
+16;197;0;0;Vinh Phuc;x
+17;214;0;0;Hanoi;x
+18;255;0;0;Ha Nam;x
+19;224;60;32;Nam Dinh;x
+20;234;41;18;Ninh Binh;x
+21;225;51;25;Bac Ninh;x
+22;255;17;39;Hung Yen;x
+23;209;17;24;Hai Duong;x
+24;223;62;43;Haiphong;x
+25;165;0;0;Thai Binh;x
+26;0;185;0;Thanh Hoa;x
+27;89;183;71;Nghe An;x
+28;64;105;61;Ha Tinh;x
+29;135;179;130;Quang Binh;x
+30;51;192;78;Quang Tri;x
+31;51;211;114;Hue;x
+32;51;255;255;Da Nang;x
+33;51;226;197;Quang Nam;x
+34;0;228;255;Quang Ngai;x
+35;51;219;216;Binh Dinh;x
+36;51;177;216;Phu Yen;x
+37;86;155;243;Khanh Hoa;x
+38;86;206;233;Ninh Thuan;x
+39;86;146;197;Binh Thuan;x
+40;0;97;255;Kon Tum;x
+41;0;68;255;Gia Lai;x
+42;0;107;255;Dak Lak;x
+43;32;66;250;Dak Nong;x
+44;32;100;255;Lam Dong;x
+45;153;0;223;Binh Phuoc;x
+46;119;0;202;Tay Ninh;x
+47;153;0;177;Binh Duong;x
+48;182;0;236;Dong Nai;x
+49;119;0;170;Saigon;x
+50;141;0;236;Phouc Tuy;x
+51;223;61;177;An Giang;
+52;240;61;114;Dong Thap;x
+53;228;28;192;Kien Giang;x
+54;231;0;129;Ca Mau;x
+55;255;0;255;Can Tho;x
+56;255;54;216;Hau Giang;x
+57;255;54;151;Bac Lieu;x
+58;255;54;117;Soc Trang;x
+59;209;28;138;Long An;x
+60;240;61;197;Tien Giang;x
+61;223;0;199;Ben Tre;x
+62;223;0;255;Vinh Long;x
+63;255;0;148;Tra Vinh;x
+64;240;61;226;Sa Dec;x
