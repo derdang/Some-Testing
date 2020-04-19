@@ -1,0 +1,572 @@
+e_vietnam = {
+	color={ 180 35 70 }
+	color2={ 255 255 255 }
+	
+	capital = 17 # Hanoi
+	
+	culture = tonkinese
+
+	
+	k_tonkin = {
+		color = { 150 30 50 }
+		color2 = { 255 255 255 }
+		
+		capital = 17 #hanoi
+		
+		#culture = tonkinese
+		
+		d_hanoi = { 
+			color = { 214 0 0 }
+			color2 = { 255 255 255 }
+	
+			capital = 17
+			
+			c_hanoi = {
+				color = { 214 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_hanoi = {}
+			}
+			c_vinh_phuc = {
+				color={ 197 0 0 }
+				color2={ 255 255 255 }
+				
+				b_vinh_yen = {}
+			}
+			c_hung_yen = {
+				color={ 255 17 39 }
+				color2={ 255 255 255 }
+				
+				b_hung_yen = {}
+			}
+			c_bac_ninh = {
+				color={ 225 51 25 }
+				color2={ 255 255 255 }
+				
+				b_bac_ninh = {}
+			}
+		d_haiphong = { 
+			color = { 223 62 43 }
+			color2 = { 255 255 255 }
+	
+			capital = 24
+			
+			c_haiphong = {
+				color = { 223 62 43 }
+				color2 = { 255 255 255 }
+				
+				b_haiphong = {}
+			}
+			c_thai_binh = {
+				color={ 165 0 0 }
+				color2={ 255 255 255 }
+				
+				b_thai_binh = {}
+			}
+			
+			c_hai_duong = {
+				color={ 209 17 24 }
+				color2={ 255 255 255 }
+				
+				b_hai_duong = {}
+			}
+		}
+		
+		d_nam_dinh = { 
+			color = { 224 60 32 }
+			color2 = { 255 255 255 }
+	
+			capital = 19
+			
+			c_nam_dinh = {
+				color = { 224 60 32 }
+				color2 = { 255 255 255 }
+				
+				b_nam_dinh = {}
+			}
+			c_ninh_binh = {
+				color={ 234 41 18 }
+				color2={ 255 255 255 }
+				
+				b_ninh_binh = {}
+			}
+			
+			c_ha_nam = {
+				color={ 255 0 0 }
+				color2={ 255 255 255 }
+				
+				b_phu_ly = {}
+			}
+		}
+		d_son_la = { 
+			color = { 253 216 0 }
+			color2 = { 255 255 255 }
+	
+			capital = 4
+			
+			c_son_la = {
+				color = { 253 216 0 }
+				color2 = { 255 255 255 }
+				
+				b_son_la = {}
+			}
+			c_dien_bien = {
+				color={ 255 255 0 }
+				color2={ 255 255 255 }
+				
+				b_dien_bien_phu = {}
+			}
+			
+			c_hoa_binh = {
+				color={ 240 235 92 }
+				color2={ 255 255 255 }
+				
+				b_hoa_binh = {}
+			}
+		}
+		d_yen_bai = { 
+			color = { 250 231 95 }
+			color2 = { 255 255 255 }
+	
+			capital = 5
+			
+			c_yen_bai = {
+				color = { 250 231 95 }
+				color2 = { 255 255 255 }
+				
+				b_yen_bai = {}
+			}
+			c_lao_cai = {
+				color={ 250 231 0 }
+				color2={ 255 255 255 }
+				
+				b_lao_cai = {}
+			}
+			
+			c_lai_chau = {
+				color={ 220 231 58 }
+				color2={ 255 255 255 }
+				
+				b_lai_chau = {}
+			}
+		}
+		d_ha_giang = { 
+			color = { 255 182 0 }
+			color2 = { 255 255 255 }
+	
+			capital = 7
+			
+			c_ha_giang = {
+				color = { 255 182 0 }
+				color2 = { 255 255 255 }
+				
+				b_ha_giang = {}
+			}
+			c_cao_bang = {
+				color={ 255 138 0 }
+				color2={ 255 255 255 }
+				
+				b_cao_bang = {}
+			}
+			
+			c_bac_kan = {
+				color={ 255 121 0 }
+				color2={ 255 255 255 }
+				
+				b_bac_kan = {}
+			}
+		}
+		d_phu_tho = { 
+			color = { 255 155 0 }
+			color2 = { 255 255 255 }
+	
+			capital = 9
+			
+			c_phu_tho = {
+				color = { 255 155 0 }
+				color2 = { 255 255 255 }
+				
+				b_viet_tri = {}
+			}
+			c_tuyen_quang = {
+				color={ 255 192 0 }
+				color2={ 255 255 255 }
+				
+				b_tuyen_quang = {}
+			}
+			
+			c_thai_nguyen = {
+				color={ 255 56 0 }
+				color2={ 255 255 255 }
+				
+				b_thai_nguyen = {}
+			}
+		}
+		d_ha_long = { 
+			color = { 255 155 0 }
+			color2 = { 255 255 255 }
+	
+			capital = 15
+			
+			c_quang_ninh = {
+				color = { 227 45 24 }
+				color2 = { 255 255 255 }
+				
+				b_ha_long = {}
+			}
+			c_lang_son = {
+				color={ 255 75 0 }
+				color2={ 255 255 255 }
+				
+				b_lang_son = {}
+			}
+			
+			c_bac_giang = {
+				color={ 206 53 0 }
+				color2={ 255 255 255 }
+				
+				b_bac_giang = {}
+			}
+		}
+	}
+	
+	k_annam = {
+		color={ 220 100 70 }
+		color2={ 255 255 255 }
+		
+		capital = 31
+		
+		culture = annamese
+		
+		d_thua_thien = { 
+			color={ 51 211 114 }
+			color2={ 255 255 255 }
+	
+			capital = 31
+			
+			c_hue = {
+				color={ 51 211 114 }
+				color2={ 255 255 255 }
+				
+				b_hue = {}
+			}
+			c_quang_tri = {
+				color={ 51 192 78 }
+				color2={ 255 255 255 }
+				
+				b_dong_ha = {}
+			}
+			c_quang_binh = {
+				color={ 135 179 130 }
+				color2={ 255 255 255 }
+				
+				b_dong_hoi = {}
+			}
+		}
+		
+		d_nghe_tinh = { 
+			color={ 0 185 0 }
+			color2={ 255 255 255 }
+	
+			capital = 26
+			
+			c_thanh_hoa = {
+				color={ 0 185 0 }
+				color2={ 255 255 255 }
+				
+				b_thanh_hoa = {}
+			}
+			c_nghe_an = {
+				color={ 89 183 71 }
+				color2={ 255 255 255 }
+				
+				b_vinh = {}
+			}
+			c_ha_tinh = {
+				color={ 64 105 61 }
+				color2={ 255 255 255 }
+				
+				b_ha_tinh = {}
+			}
+		}
+		d_bac_vo_dich = { 
+			color={ 51 255 255 }
+			color2={ 255 255 255 }
+	
+			capital = 32
+			
+			c_da_nang = {
+				color={ 51 255 255 }
+				color2={ 255 255 255 }
+				
+				b_da_nang = {}
+			}
+			c_quang_nam = {
+				color={ 51 226 197 }
+				color2={ 255 255 255 }
+				
+				b_tam_ky = {}
+			}
+			c_quang_ngai = {
+				color={ 0 228 255 }
+				color2={ 255 255 255 }
+				
+				b_quang_ngai = {}
+			}
+			c_binh_dinh = {
+				color={ 51 219 216 }
+				color2={ 255 255 255 }
+				
+				b_quy_nhon = {}
+			}
+		}
+		d_vo_dich_nam = { 
+			color={ 86 146 197 }
+			color2={ 255 255 255 }
+	
+			capital = 39
+			
+			c_binh_thuan = {
+				color={ 86 146 197 }
+				color2={ 255 255 255 }
+				
+				b_phan_thiet = {}
+			}
+			c_ninh_thuan = {
+				color={ 86 206 233 }
+				color2={ 255 255 255 }
+				
+				b_thap_cham = {}
+			}
+			c_khanh_hoa = {
+				color={ 86 155 243 }
+				color2={ 255 255 255 }
+				
+				b_nha_trang = {}
+			}
+			c_phu_yen = {
+				color={ 145 70 100 }
+				color2={ 255 255 255 }
+				
+				b_tuy_hoa = {}
+			}
+		}
+		d_jarai = { 
+			color={ 0 97 255 }
+			color2={ 255 255 255 }
+	
+			capital = 41
+			
+			c_gia_lai = {
+				color={ 0 68 255 }
+				color2={ 255 255 255 }
+				
+				b_pleiku = {}
+			}
+			c_kon_tum = {
+				color={ 0 97 255 }
+				color2={ 255 255 255 }
+				
+				b_kon_tum = {}
+			}
+		}
+		d_tay_nguyen = { 
+			color={ 0 107 255 }
+			color2={ 255 255 255 }
+	
+			capital = 42
+			
+			c_dak_lak = {
+				color={ 0 107 255 }
+				color2={ 255 255 255 }
+				
+				b_buon_ma_thuot = {}
+			}
+			c_dak_nong = {
+				color={ 32 66 250 }
+				color2={ 255 255 255 }
+				
+				b_gia_nghia = {}
+			}
+			c_lam_dong = {
+				color={ 32 100 255 }
+				color2={ 255 255 255 }
+				
+				b_da_lat = {}
+			}
+		}
+	}
+	
+	k_cochinchina = {
+		color={ 200 130 50 }
+		color2={ 255 255 255 }
+		
+		capital = 49
+		
+		culture = cochinchinese
+		
+		d_saigon = { 
+			color={ 119 0 170 }
+			color2={ 255 255 255 }
+	
+			capital = 49
+			
+			c_saigon = {
+				color={ 119 0 170 }
+				color2={ 255 255 255 }
+				
+				b_saigon = {}
+			}
+			c_dong_nai = {
+				color={ 182 0 236 }
+				color2={ 255 255 255 }
+				
+				b_bien_hoa = {}
+			}
+			c_phouc_tuy = {
+				color={ 141 0 236 }
+				color2={ 255 255 255 }
+				
+				b_ba_ria = {}
+			}
+		}
+		
+		d_tay_ninh = { 
+			color={ 119 0 202 }
+			color2={ 255 255 255 }
+	
+			capital = 46
+			
+			c_tay_ninh = {
+				color={ 119 0 202 }
+				color2={ 255 255 255 }
+				
+				b_tay_ninh = {}
+			}
+			c_binh_duong = {
+				color={ 153 0 177 }
+				color2={ 255 255 255 }
+				
+				b_thu_dat_mot = {}
+			}
+			c_binh_phuoc = {
+				color={ 153 0 223 }
+				color2={ 255 255 255 }
+				
+				b_dong_xoai = {}
+			}
+		}
+		d_dong_thap = { 
+			color={ 240 61 114 }
+			color2={ 255 255 255 }
+	
+			capital = 52
+			
+			c_dong_thap = {
+				color={ 240 61 114 }
+				color2={ 255 255 255 }
+				
+				b_cao_lanh = {}
+			}
+			c_long_an = {
+				color={ 209 28 138 }
+				color2={ 255 255 255 }
+				
+				b_tan_an = {}
+			}
+			c_tien_giang = {
+				color={ 240 61 197 }
+				color2={ 255 255 255 }
+				
+				b_my_tho = {}
+			}
+		}
+		d_ben_tre = { 
+			color={ 223 0 199 }
+			color2={ 255 255 255 }
+	
+			capital = 61
+			
+			c_ben_tre = {
+				color={ 223 0 199 }
+				color2={ 255 255 255 }
+				
+				b_ben_tre = {}
+			}
+			c_vinh_long = {
+				color={ 223 0 255 }
+				color2={ 255 255 255 }
+				
+				b_vinh_long = {}
+			}
+			c_tra_vinh = {
+				color={ 255 0 148 }
+				color2={ 255 255 255 }
+				
+				b_tra_vinh = {}
+			}
+			c_soc_trang = {
+				color={ 255 54 117 }
+				color2={ 255 255 255 }
+				
+				b_soc_trang = {}
+			}
+		}
+		d_can_tho = { 
+			color={ 223 0 199 }
+			color2={ 255 255 255 }
+	
+			capital = 55
+			
+			c_can_tho = {
+				color={ 225 0 255 }
+				color2={ 255 255 255 }
+				
+				b_can_tho = {}
+			}
+			c_sa_dec = {
+				color={ 240 61 226 }
+				color2={ 255 255 255 }
+				
+				b_sa_dec = {}
+			}
+			c_hau_giang = {
+				color={ 255 54 216 }
+				color2={ 255 255 255 }
+				
+				b_vi_thanh = {}
+			}
+			c_an_giang = {
+				color={ 255 54 117 }
+				color2={ 255 255 255 }
+				
+				b_long_xuyen = {}
+			}
+		}
+		d_ha_tien = { 
+			color={ 228 28 192 }
+			color2={ 255 255 255 }
+	
+			capital = 53
+			
+			c_kien_giang = {
+				color={ 228 28 192 }
+				color2={ 255 255 255 }
+				
+				b_rach_gia = {}
+			}
+			c_ca_mau = {
+				color={ 231 0 129 }
+				color2={ 255 255 255 }
+				
+				b_ca_mau = {}
+			}
+			c_bac_lieu = {
+				color={ 255 54 151 }
+				color2={ 255 255 255 }
+				
+				b_bac_lieu = {}
+			}
+		}
+	}
+}
